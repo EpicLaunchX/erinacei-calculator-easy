@@ -1,6 +1,8 @@
 # This is a Python Project Template
 
-You need to use this template for all Python projects. (Change me...)
+You need to use this template for all Python projects. 
+
+(Change me...)
 
 ## Setup
 
